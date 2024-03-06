@@ -4,7 +4,7 @@
 <div align="center">
 <h3 style="text-align: center;">Hi there 👋, I'M 4ndykhang99</h3>
 
-<div align="left"> 
+</div>
   Embedded for life
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4ndykhang99)](https://github.com/ryo-ma/github-profile-trophy)
