@@ -5,8 +5,8 @@ Embedded Engineer
 > I created this git to share what I have learned
 <h5 align="left">More about me :3</h5>
 
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-KhangTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khang-tr%E1%BA%A7n-826775230/)](https://www.linkedin.com/in/khang-tr%E1%BA%A7n-826775230/)
+[![General badge](https://img.shields.io/badge/KhangTran-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kay.andy.568)
+[![Linkedin: KhangTran](https://img.shields.io/badge/-KhangTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khang-tr%E1%BA%A7n-826775230/)](https://www.linkedin.com/in/khang-tr%E1%BA%A7n-826775230/)
 [![GitHub 4ndykhang99](https://img.shields.io/github/followers/4ndykhang99?label=follow&style=social)](https://github.com/4ndykhang99/)
 
 <br>
@@ -18,10 +18,10 @@ Typedef struct Andy
 {
     std::vector<std::string> languages = {"C", "Cpp", "Csharp"};
     std::vector<std::string> tools = {"CubeIDE", "Vscode", "Altium"};
-    std::vector<std::string> architecture = {"Firmware", "Hardware", "Electrical design", "Linix kernel", "Tester"};
+    std::vector<std::string> architecture = {"Firmware", "Hardware", "Electrical design", "Linux kernel", "Tester"};
     std::string challenge = "Master in Embedded Linux";
 
-} AboutMe
+} Qualification
 ```
 
 
