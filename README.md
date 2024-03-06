@@ -4,11 +4,12 @@
 <h1 align="center">Hi there 👋, I'M 4ndykhang99</h1>
 <h3 align="center">I created this git to sharing what I have learned</h3>
 
-
 ### Embedded for life
 
-Skills: Embedded/C/C++/C#/Linux Kernel
-
+Skills:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - 🔭 I’m currently working on this page. 
 
 
