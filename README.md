@@ -7,6 +7,10 @@
 #### Some about me ~~
 Embedded for life
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=4ndykhang99)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 Skills: Embedded/C/C++/C#/Linux Kernel
 
 - 🔭 I’m currently working on this page. 
